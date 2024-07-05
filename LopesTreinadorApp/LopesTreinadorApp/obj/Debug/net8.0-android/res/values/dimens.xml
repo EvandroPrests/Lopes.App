@@ -1,0 +1,8 @@
+<resources><!--
+    Because the window insets on round devices are larger than 15dp, this padding only applies
+    to square screens.
+    --><dimen name="box_inset_layout_padding">20dp</dimen><!--
+    This padding applies to both square and round screens. The total padding between the buttons
+    and the window insets is box_inset_layout_padding (above variable) on square screens and
+    inner_frame_layout_padding (below variable) on round screens.
+    --><dimen name="inner_frame_layout_padding">10dp</dimen><dimen name="inner_frame_layout_horizontal_padding">25dp</dimen><dimen name="main_icon_size">48dp</dimen><!-- Round app icon can take all of default space --><dimen name="splash_screen_icon_size">48dp</dimen></resources>

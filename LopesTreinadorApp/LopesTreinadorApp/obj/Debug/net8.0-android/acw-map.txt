@@ -1,0 +1,6 @@
+LopesTreinadorApp.MainActivity, LopesTreinadorApp;crc6416c94b35f383d45f.MainActivity
+LopesTreinadorApp.MainActivity;crc6416c94b35f383d45f.MainActivity
+lopestreinadorapp.MainActivity;crc6416c94b35f383d45f.MainActivity
+LopesTreinadorApp.Activities.LoginActivity, LopesTreinadorApp;com.companyname.LopesTreinadorApp.LoginActivity
+LopesTreinadorApp.Activities.LoginActivity;com.companyname.LopesTreinadorApp.LoginActivity
+com.companyname.LopesTreinadorApp.LoginActivity;com.companyname.LopesTreinadorApp.LoginActivity

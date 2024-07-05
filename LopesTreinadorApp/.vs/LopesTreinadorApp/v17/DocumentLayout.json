@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|c:\\users\\aluno\\source\\repos\\app-android\\lopestreinadorapp\\lopestreinadorapp\\resources\\layout\\activity_login.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|solutionrelative:lopestreinadorapp\\resources\\layout\\activity_login.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|c:\\users\\aluno\\source\\repos\\app-android\\lopestreinadorapp\\lopestreinadorapp\\activities\\loginactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|solutionrelative:lopestreinadorapp\\activities\\loginactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|c:\\users\\aluno\\source\\repos\\app-android\\lopestreinadorapp\\lopestreinadorapp\\baseclasses\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|solutionrelative:lopestreinadorapp\\baseclasses\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|c:\\users\\aluno\\source\\repos\\app-android\\lopestreinadorapp\\lopestreinadorapp\\lopestreinadorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|solutionrelative:lopestreinadorapp\\lopestreinadorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|c:\\users\\aluno\\source\\repos\\app-android\\lopestreinadorapp\\lopestreinadorapp\\resources\\values\\strings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|solutionrelative:lopestreinadorapp\\resources\\values\\strings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|c:\\users\\aluno\\source\\repos\\app-android\\lopestreinadorapp\\lopestreinadorapp\\resources\\layout\\activity_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|solutionrelative:lopestreinadorapp\\resources\\layout\\activity_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|c:\\users\\aluno\\source\\repos\\app-android\\lopestreinadorapp\\lopestreinadorapp\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|solutionrelative:lopestreinadorapp\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|c:\\users\\aluno\\source\\repos\\app-android\\lopestreinadorapp\\lopestreinadorapp\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F99301-302E-48BB-ADAE-D9F054101517}|LopesTreinadorApp\\LopesTreinadorApp.csproj|solutionrelative:lopestreinadorapp\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "strings.xml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Resources\\values\\strings.xml",
+              "RelativeDocumentMoniker": "LopesTreinadorApp\\Resources\\values\\strings.xml",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Resources\\values\\strings.xml",
+              "RelativeToolTip": "LopesTreinadorApp\\Resources\\values\\strings.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-06T01:20:30.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "LopesTreinadorApp\\Resources\\layout\\activity_main.xml",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "LopesTreinadorApp\\Resources\\layout\\activity_main.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-06T01:19:55.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.xml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Resources\\values\\styles.xml",
+              "RelativeDocumentMoniker": "LopesTreinadorApp\\Resources\\values\\styles.xml",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Resources\\values\\styles.xml",
+              "RelativeToolTip": "LopesTreinadorApp\\Resources\\values\\styles.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-06T01:19:10.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\MainActivity.cs",
+              "RelativeDocumentMoniker": "LopesTreinadorApp\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\MainActivity.cs",
+              "RelativeToolTip": "LopesTreinadorApp\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:18:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LopesTreinadorApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\LopesTreinadorApp.csproj",
+              "RelativeDocumentMoniker": "LopesTreinadorApp\\LopesTreinadorApp.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\LopesTreinadorApp.csproj",
+              "RelativeToolTip": "LopesTreinadorApp\\LopesTreinadorApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T01:18:18.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\BaseClasses\\Usuario.cs",
+              "RelativeDocumentMoniker": "LopesTreinadorApp\\BaseClasses\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\BaseClasses\\Usuario.cs",
+              "RelativeToolTip": "LopesTreinadorApp\\BaseClasses\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:49:03.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Activities\\LoginActivity.cs",
+              "RelativeDocumentMoniker": "LopesTreinadorApp\\Activities\\LoginActivity.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Activities\\LoginActivity.cs",
+              "RelativeToolTip": "LopesTreinadorApp\\Activities\\LoginActivity.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:32:15.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "activity_login.xml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Resources\\layout\\activity_login.xml",
+              "RelativeDocumentMoniker": "LopesTreinadorApp\\Resources\\layout\\activity_login.xml",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\app-android\\LopesTreinadorApp\\LopesTreinadorApp\\Resources\\layout\\activity_login.xml",
+              "RelativeToolTip": "LopesTreinadorApp\\Resources\\layout\\activity_login.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-05T23:29:51.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
