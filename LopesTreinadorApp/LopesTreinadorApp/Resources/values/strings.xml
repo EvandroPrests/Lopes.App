@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LopesTreinadorApp</string>
+  <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+  <string name="app_health_monitoring">Lopes Treinamento</string>
+  <string name="app_sobre">
+    Este é um app desenvolvido na disciplina de
+    Desenvolvimento para Dispositivos Móveis no IFPR de Telêmaco Borba
+  </string>
+
+  <string name="app_login">Login</string>
+    
+</resources>
